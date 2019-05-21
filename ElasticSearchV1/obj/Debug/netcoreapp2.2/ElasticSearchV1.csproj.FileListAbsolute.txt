@@ -1,0 +1,14 @@
+C:\Sudarsan\Projects\ElasticSearchV1\ElasticSearchV1\bin\Debug\netcoreapp2.2\ElasticSearchV1.deps.json
+C:\Sudarsan\Projects\ElasticSearchV1\ElasticSearchV1\bin\Debug\netcoreapp2.2\ElasticSearchV1.runtimeconfig.json
+C:\Sudarsan\Projects\ElasticSearchV1\ElasticSearchV1\bin\Debug\netcoreapp2.2\ElasticSearchV1.runtimeconfig.dev.json
+C:\Sudarsan\Projects\ElasticSearchV1\ElasticSearchV1\bin\Debug\netcoreapp2.2\ElasticSearchV1.dll
+C:\Sudarsan\Projects\ElasticSearchV1\ElasticSearchV1\obj\Debug\netcoreapp2.2\ElasticSearchV1.csprojAssemblyReference.cache
+C:\Sudarsan\Projects\ElasticSearchV1\ElasticSearchV1\obj\Debug\netcoreapp2.2\ElasticSearchV1.csproj.CoreCompileInputs.cache
+C:\Sudarsan\Projects\ElasticSearchV1\ElasticSearchV1\obj\Debug\netcoreapp2.2\ElasticSearchV1.RazorAssemblyInfo.cache
+C:\Sudarsan\Projects\ElasticSearchV1\ElasticSearchV1\obj\Debug\netcoreapp2.2\ElasticSearchV1.RazorAssemblyInfo.cs
+C:\Sudarsan\Projects\ElasticSearchV1\ElasticSearchV1\obj\Debug\netcoreapp2.2\ElasticSearchV1.AssemblyInfoInputs.cache
+C:\Sudarsan\Projects\ElasticSearchV1\ElasticSearchV1\obj\Debug\netcoreapp2.2\ElasticSearchV1.AssemblyInfo.cs
+C:\Sudarsan\Projects\ElasticSearchV1\ElasticSearchV1\obj\Debug\netcoreapp2.2\ElasticSearchV1.RazorTargetAssemblyInfo.cache
+C:\Sudarsan\Projects\ElasticSearchV1\ElasticSearchV1\bin\Debug\netcoreapp2.2\ElasticSearchV1.pdb
+C:\Sudarsan\Projects\ElasticSearchV1\ElasticSearchV1\obj\Debug\netcoreapp2.2\ElasticSearchV1.dll
+C:\Sudarsan\Projects\ElasticSearchV1\ElasticSearchV1\obj\Debug\netcoreapp2.2\ElasticSearchV1.pdb
